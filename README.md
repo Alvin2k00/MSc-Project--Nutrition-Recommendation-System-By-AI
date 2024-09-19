@@ -15,5 +15,6 @@ To run this code. Please follow the below steps.
 7. Follow along the coding on that cell for App and write the specific messages.
 8. Upload the image you want to check the nutritional components for.
 
-Link to Dataset- https://www.kaggle.com/datasets/dansbecker/food-101
-Demo Video- 
+Links 
+1. Link to Dataset- https://www.kaggle.com/datasets/dansbecker/food-101
+2. App Run/Demo Video- https://drive.google.com/file/d/10VRpsHMNF7QO1UNtS3V3oGi0zAzC0uJh/view?usp=sharing
